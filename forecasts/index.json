@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "snapshots": [
+    {
+      "createdAt": "2026-10-12T02:30:23+00:00",
+      "dataCutoff": "2026-10-10T00:00:00+00:00",
+      "path": "nowcast-2026-10-10/snapshot.json",
+      "provenanceKind": "model",
+      "sha256": "04fb78d5ba2c5d99864c090cb4a022bcaee4785002488c0025f55794b6a927b0",
+      "snapshotId": "nowcast-2026-10-10",
+      "status": "published",
+      "supersedes": null,
+      "withdrawnReason": null
+    }
+  ]
+}
