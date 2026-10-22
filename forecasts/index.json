@@ -22,6 +22,17 @@
       "status": "published",
       "supersedes": null,
       "withdrawnReason": null
+    },
+    {
+      "createdAt": "2026-10-22T03:48:53+00:00",
+      "dataCutoff": "2026-10-22T00:00:00+13:00",
+      "path": "nowcast-2026-10-22/snapshot.json",
+      "provenanceKind": "model",
+      "sha256": "bf19f959fd51bd89452f0c3729a501cbafb438b167f22427a0b71b286b76dba0",
+      "snapshotId": "nowcast-2026-10-22",
+      "status": "published",
+      "supersedes": null,
+      "withdrawnReason": null
     }
   ]
 }
